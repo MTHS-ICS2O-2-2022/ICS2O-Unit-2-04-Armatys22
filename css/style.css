@@ -28,6 +28,14 @@ body {
 p {
   color: rgb(0 0 0);
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   padding-top: 5pt;
+}
+
+img {
+  height: auto;
+  width: 450px;
+  float: right;
+  margin-bottom: auto;
+  margin-right: 100;
 }
